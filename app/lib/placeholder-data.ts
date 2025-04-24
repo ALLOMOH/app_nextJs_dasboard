@@ -41,11 +41,12 @@ const customers = [
     image_url: '/customers/amy-burns.png',
   },
   {
-    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
-    name: 'Balazs Orban',
-    email: 'balazs@orban.com',
+    id: 'VVD07535-C59E-1322-ED4W-F8D2EF4E0CBB',
+    name: 'GREEN odkle',
+    email: 'green@odkle.com',
     image_url: '/customers/balazs-orban.png',
-  },
+  }
+
 ];
 
 const invoices = [
