@@ -9,7 +9,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} antilaliased`}>{children}</body>
+      <body suppressHydrationWarning className={`${inter.className} antilaliased`}>{children}</body>
     </html>
   );
 }
